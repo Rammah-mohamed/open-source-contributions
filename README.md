@@ -4,7 +4,7 @@ I actively contribute to open-source projects by fixing bugs, improving UI/UX, a
 
 ## 🔹 Key Fixes & Features  
 
-✅ **[Fix: Prevent Duplicate Folder/Request Names](https://github.com/EXXETA/trufos/pull/297))**  
+✅ **[Fix: Prevent Duplicate Folder/Request Names](https://github.com/EXXETA/trufos/pull/297)**  
 - Prevented duplicate folder names when spaces or hyphens were used.  
 
 ✅ **[Enhancement: Keyboard Accessibility in Modal](https://github.com/EXXETA/trufos/pull/292)**  
