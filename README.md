@@ -4,13 +4,13 @@ I actively contribute to open-source projects by fixing bugs, improving UI/UX, a
 
 ## 🔹 Key Fixes & Features  
 
-✅ **[Fix: Prevent Duplicate Folder/Request Names]([https://github.com/project-repo/pull/123](https://github.com/EXXETA/trufos/pull/297))**  
+✅ **[Fix: Prevent Duplicate Folder/Request Names](https://github.com/EXXETA/trufos/pull/297))**  
 - Prevented duplicate folder names when spaces or hyphens were used.  
 
 ✅ **[Enhancement: Keyboard Accessibility in Modal](https://github.com/EXXETA/trufos/pull/292)**  
 - Added **ESC key support** to cancel modal actions.  
 
-✅ **[Bugfix: Empty Input Field Always Showing "Folder"]([https://github.com/project-repo/pull/789](https://github.com/EXXETA/trufos/pull/296)**  
+✅ **[Bugfix: Empty Input Field Always Showing "Folder"](https://github.com/EXXETA/trufos/pull/296)**  
 - Differentiated between folder and request input placeholders.  
 
 ## 🌍 Why I Contribute?  
